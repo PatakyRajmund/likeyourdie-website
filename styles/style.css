@@ -1,0 +1,28 @@
+header .nav-item:hover{
+    font-weight:bold;
+}
+
+header .nav-item{
+    font-size:larger;
+    
+}
+
+header .navbar-brand{
+    font-size:x-large;
+}
+
+header{
+    width:100%;
+}
+
+header .navbar-brand{
+    padding-right:1rem;
+    border-right:solid 0.1rem rgb(99, 99, 99);
+}
+
+header #navbarNav{
+    position:relative;
+    
+
+}
+
